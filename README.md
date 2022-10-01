@@ -1,25 +1,25 @@
 # Lab1web
-## TUGAS PRAKTIKUM
+### TUGAS PRAKTIKUM
 ## BELAJAR DASAR HTML
 
-# TITLE BAR
-unutuk memberi title pada web kita dapat menggunakan tag < title>
+## TITLE BAR
+untuk memberi title pada web kita dapat menggunakan tag < title>
 berikut adalah hasilnya
-! [gambar 0](SCREEN/SS1.JPG)
+![gambar 0](SCREEN/SS1.JPG)
 
-# PARAGRAF
+## PARAGRAF
 untuk menampilkan paragfar kita mengunakan tag < p >
 berikut hasilnya
 ![gambar 1](SCREEN/SS2.JPG)
 
-# MENAMBAHKAN JUDUL
+## MENAMBAHKAN JUDUL
 untuk menambhakn judul pada paragraf menggunakan tag < h1 >
 < h2 >
 dan seterusnya.
 berikut adalah hasilnya
 ![gambar 2](SCREEN/SS4.JPG)
 
-# ATRIBUT PARAGAF
+## ATRIBUT PARAGAF
 untuk mengatur atribut paragraf seperti:
 rata tengah, rata kanan, rata kiri, rata kanan kiri
 kita dapat melakukan < p align="center">
@@ -27,7 +27,7 @@ atau ( align="justify, left, right, dan center)
 berikut adalah hasilnya
 ![gambar 3](SCREEN/SS3.JPG)
 
-# MEMFORMAT TEKS
+## MEMFORMAT TEKS
 untuk melakukan format teks kita dapat menggunakan tag sebagai berikut:
 < b> = untuk menebalkan hufur
 < i> = untuk memiringkan huruf
@@ -36,13 +36,13 @@ dan lain sebagainya
 berikut adalah hasilnya
 ![gambar 4](SCREEN/SS5.JPG)
 
-# MENAMBAHKAN GAMBAR
+## MENAMBAHKAN GAMBAR
 untuk menambahkan gambar kita dapat menggunakan tag
 < img src="nama file gambar" title="judul gambar(bebas")
 berikut adalah hasilnya
 ![gambar 5](SCREEN/SS6.JPG)
 
-# MENAMBAHKAN HYPERLINK
+## MENAMBAHKAN HYPERLINK
 
 untuk menambahkan hyperlink kita dapat menggunakan tag sebagai berikut;
 < nav>
